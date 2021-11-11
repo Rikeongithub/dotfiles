@@ -1,0 +1,99 @@
+###---------- ALIASES ----------###
+
+#update
+alias grub="sudo grub-mkconfig -o /boot/grub/grub.cfg"
+alias update="sudo pacman -Syyu"
+alias update2="yay -Syyu"
+
+#navigate files and directories
+alias ..="cd .."
+alias ls="ls"
+alias ll="ls -l"
+alias la="ls -a"
+alias lsla="ls -la"
+alias sr="sudo ranger"
+alias r="ranger"
+alias cl="clear"
+alias copy="rsync -P"
+alias x="xplr"
+alias sx="sudo xplr"
+
+
+#fun stuff
+alias cnews="fortune | cowsay"
+alias qnews="fortune | ponysay"
+alias pics="sxiv -t Pictures"
+alias wp="sxiv -t wallpaper"
+alias temp="curl wttr.in/rogers"
+alias colors="msgcat --color=test"
+
+#git
+alias status="git status"
+alias push="git push origin"
+alias pull="git pull origin"
+alias commit="git commit -m"
+alias add="git add ."
+alias gitname="git config --global user.name "Jacob Pedersen""
+alias gitmail="git config --global user.email "jdpedersen1@yahoo.com""
+alias ginit="git init"
+alias remote="git remote add origin"
+alias config="/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME"
+
+#poweroff
+alias po="sudo shutdown now"
+alias rs="sudo reboot"
+
+#sync
+alias dsync="~/.emacs.d/bin/doom sync"
+alias merge="xrdb -merge ~/XTerm"
+
+#file access
+alias xmo="vim ~/.xmonad/xmonad.hs"
+alias xmb="vim ~/.config/xmobar/xmobarrc"
+alias poly="vim ~/.config/polybar/config"
+alias qt="vim ~/.config/qtile/config.py"
+alias zconf="vim ~/.config/zsh/.zshrc"
+alias bconf="vim ~/.bashrc"
+alias cp="cp -riv"
+alias mv="mv -iv"
+alias mkdir="mkdir -vp"
+alias vim="vim"
+
+
+#editors
+alias v="vim"
+alias e="emacs"
+alias n="nano"
+
+#youtube
+alias ytm="youtube-dl --extract-audio --audio-format mp3"
+alias ytv="youtube-dl -f bestvideo+bestaudio"
+
+#scrot
+alias sc="scrot ~/Pictures/Screenshots/%Y-%m-%d-T-screenshot.png"
+alias shot="scrot -d 2 ~/Pictures/Screenshots/fullscr_`date +'%F_%Hh%M'`.png"
+alias shotwin="sleep 3 && scrot -s ~/Pictures/Screenshots/windowed_`date +'%F_%Hh%M'`.png"
+
+#shell
+alias tobash="sudo chsh $USER -s /bin/bash && echo 'Now log out.'"
+alias tozsh="sudo chsh $USER -s /bin/zsh && echo 'Now log out.'"
+alias tofish="sudo chsh $USER -s /bin/fish && echo 'Now log out.'"
+alias sourcez="source .zshrc"
+alias sourceb="source .bashrc"
+
+#keys
+alias gpg1="gpg --keyserver pool.sks-keyservers.net --recv-keys"
+
+#phone
+alias aft="android-file-transfer"
+
+#disk
+alias gparted="sudo gparted"
+
+#website
+alias webserver="ssh root@jpedmedia.com"
+alias nmoupdate="rsync -vrP --delete-after ~/notmyown/public/ root@jpedmedia.com:/var/www/notmyown"
+alias jpedupdate="rsync -vrP --delete-after ~/website/jpedmedia/ root@jpedmedia.com:/var/www/jpedmedia"
+alias arch="ssh 10.42.0.222"
+
+

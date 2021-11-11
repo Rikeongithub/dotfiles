@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/rike/Downloads/dwm-fullgaps-20200508-7b77734.diff" added="2021-11-05T17:18:14.087925Z" modified="2021-11-05T17:26:11.027125Z" visited="2021-11-05T17:18:14.087926Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-05T17:26:11.027122Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/dwm-fullgaps-6.2.diff" added="2021-11-05T17:22:11.997407Z" modified="2021-11-05T17:22:12.540513Z" visited="2021-11-05T17:22:11.997408Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-05T17:22:12.540509Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/dwm-fullgaps-toggle-20200830.diff" added="2021-11-05T17:57:03.913679Z" modified="2021-11-05T17:57:04.265813Z" visited="2021-11-05T17:57:03.913680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-patch"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-05T17:57:04.265810Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/Layan-dark-solid.tar.xz" added="2021-11-06T12:31:57.593584Z" modified="2021-11-06T12:31:57.593587Z" visited="2021-11-06T12:31:57.593585Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-06T12:31:57.593586Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads" added="2021-11-06T12:42:53.036932Z" modified="2021-11-06T14:19:02.758861Z" visited="2021-11-06T12:42:53.036933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="xarchiver" exec="&apos;xarchiver %u&apos;" modified="2021-11-06T14:19:02.758858Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/WhiteSur-dark-solid.tar.xz" added="2021-11-06T12:49:00.032122Z" modified="2021-11-06T12:49:00.032127Z" visited="2021-11-06T12:49:00.032123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-06T12:49:00.032125Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/01-WhiteSur.tar.xz" added="2021-11-06T12:52:13.006351Z" modified="2021-11-06T13:56:29.478826Z" visited="2021-11-06T12:52:13.006352Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-06T13:56:29.478823Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/WhiteSur-dark.tar.xz" added="2021-11-06T13:04:56.454175Z" modified="2021-11-06T13:04:56.454181Z" visited="2021-11-06T13:04:56.454176Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-06T13:04:56.454179Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rike0/flat-remix-gtk-master.zip" added="2021-11-06T13:09:44.590607Z" modified="2021-11-06T13:09:44.590615Z" visited="2021-11-06T13:09:44.590609Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-06T13:09:44.590612Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/Bonny-Dark-Icons.tar.gz" added="2021-11-06T13:29:14.824863Z" modified="2021-11-06T13:32:42.537405Z" visited="2021-11-06T13:29:14.824864Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-06T13:29:14.824867Z" count="1"/>
+          <bookmark:application name="lxappearance" exec="&apos;lxappearance %u&apos;" modified="2021-11-06T13:32:42.537400Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/Zafiro-Icons-Dark-Blue-f.tar.xz" added="2021-11-06T14:11:08.380924Z" modified="2021-11-06T14:11:08.380964Z" visited="2021-11-06T14:11:08.380925Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-06T14:11:08.380927Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/Zafiro-Icons-Dark-Black-f.tar.xz" added="2021-11-06T14:18:01.058844Z" modified="2021-11-06T14:18:01.058855Z" visited="2021-11-06T14:18:01.058845Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-06T14:18:01.058849Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/Nordzy-cursors.tar.gz" added="2021-11-06T13:14:01.163013Z" modified="2021-11-06T13:14:17.361670Z" visited="2021-11-06T13:14:01.163013Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-06T13:14:01.163015Z" count="1"/>
+          <bookmark:application name="lxappearance" exec="&apos;lxappearance %u&apos;" modified="2021-11-06T13:14:17.361668Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/onedark-cursor.tar.gz" added="2021-11-06T13:14:48.779755Z" modified="2021-11-06T13:14:56.113716Z" visited="2021-11-06T13:14:48.779756Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-06T13:14:48.779761Z" count="1"/>
+          <bookmark:application name="lxappearance" exec="&apos;lxappearance %u&apos;" modified="2021-11-06T13:14:56.113711Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/mkos-BigSur-Dark-gtk.tar.xz" added="2021-11-06T13:30:52.639870Z" modified="2021-11-06T13:30:52.639878Z" visited="2021-11-06T13:30:52.639871Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-06T13:30:52.639874Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/Screenshot%202021-11-11%20at%2011-57-46%20Starship%20Cross-Shell%20Prompt.png" added="2021-11-11T11:57:57.436427Z" modified="2021-11-11T11:57:57.436430Z" visited="2021-11-11T11:57:57.436427Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-11T11:57:57.436428Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rike/Downloads/Screenshot%202021-11-11%20at%2011-59-12%20Starship%20Cross-Shell%20Prompt.png" added="2021-11-11T11:59:35.973014Z" modified="2021-11-11T11:59:35.973020Z" visited="2021-11-11T11:59:35.973015Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-11-11T11:59:35.973016Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

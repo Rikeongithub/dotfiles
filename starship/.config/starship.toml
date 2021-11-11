@@ -1,0 +1,10 @@
+#don't print another line
+add_newline = false
+
+#Make prompt a single line
+[line_break]
+disabled = true
+
+#disabled package module
+[package]
+disabled = true
